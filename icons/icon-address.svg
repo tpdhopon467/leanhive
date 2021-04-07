@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>home</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="89.2575164%" x2="100%" y2="10.7424836%" id="linearGradient-1">
+            <stop stop-color="#A50D73" offset="0%"></stop>
+            <stop stop-color="#680F4B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contact-Info" transform="translate(0.000000, -5.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="home">
+                <g transform="translate(0.000000, 5.000000)">
+                    <path d="M18.672,10 L17,10 L17,16 C17,16.445 16.806,17 16,17 L12,17 L12,11 L8,11 L8,17 L4,17 C3.194,17 3,16.445 3,16 L3,10 L1.328,10 C0.73,10 0.858,9.676 1.268,9.252 L9.292,1.22 C9.487,1.018 9.743,0.918 10,0.908 C10.257,0.918 10.513,1.017 10.708,1.22 L18.731,9.251 C19.142,9.676 19.27,10 18.672,10 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
