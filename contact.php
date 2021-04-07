@@ -66,7 +66,7 @@
                         <a class="flex items-center p-4 lg:py-2 lg:px-4 cursor-pointer rounded hover:bg-primary-400 transition duration-200 ease-in-out hover:text-white" href="lean-company.php">
                             <li class="w-full">Lean-Company</li>
                         </a>
-                        <a class="flex items-center p-4 lg:py-2 lg:px-4 cursor-pointer rounded hover:bg-primary-400 transition duration-200 ease-in-out hover:text-white" href="/hire-us">
+                        <a class="flex items-center p-4 lg:py-2 lg:px-4 cursor-pointer rounded hover:bg-primary-400 transition duration-200 ease-in-out hover:text-white" href="/hire-us.php">
                             <li class="w-full">Lean-Experts</li>
                         </a>
                         <a class="flex items-center p-4 lg:py-2 lg:px-4 cursor-pointer rounded hover:bg-primary-400 transition duration-200 ease-in-out hover:text-white" href="jobs.php">
