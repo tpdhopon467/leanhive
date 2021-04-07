@@ -140,7 +140,7 @@
             "isFallback": false
         }
     </script>
-    <script nomodule="" src="_next/static/chunks/polyfills-de8398a1d905212fa199.js"></script>
+    <script nomodule="" src="/_next/static/chunks/polyfills-de8398a1d905212fa199.js"></script>
     <script src="_next/static/chunks/main-4e1b86ae03dcf07cf6fb.js" async=""></script>
     <script src="_next/static/chunks/webpack-e067438c4cf4ef2ef178.js" async=""></script>
     <script src="_next/static/chunks/framework.ad819eb1a9164e76d2b7.js" async=""></script>
