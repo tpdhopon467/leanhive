@@ -76,7 +76,7 @@
                             <a class="flex items-center p-4 lg:py-2 lg:px-4 cursor-pointer rounded hover:bg-primary-400 transition duration-200 ease-in-out hover:text-white" href="team.php">
                                 <li class="w-full">Team</li>
                             </a>
-                            <a class="flex items-center p-4 lg:py-2 lg:px-4 cursor-pointer rounded hover:bg-primary-400 transition duration-200 ease-in-out hover:text-white" href="reference.html">
+                            <a class="flex items-center p-4 lg:py-2 lg:px-4 cursor-pointer rounded hover:bg-primary-400 transition duration-200 ease-in-out hover:text-white" href="reference.php">
                                 <li class="w-full ">Reference</li>
                             </a>
                             <a class="flex items-center p-4 lg:py-2 lg:px-4 cursor-pointer rounded hover:bg-primary-400 transition duration-200 ease-in-out hover:text-white" href="contact.php">
@@ -98,11 +98,11 @@
                     </div>
                 </div>
                 <div class="container flex flex-wrap justify-center space-b">
-                    <a class="card maxmd:mr-0" href="lean-company.html">
+                    <a class="card maxmd:mr-0" href="lean-company.php">
                         <h4>Lean-Company</h4>
                         <p>Get to know us and our service better. Find out what added value we will bring you.</p>
                     </a>
-                    <a class="card maxmd:mr-0" href="hire-us.html">
+                    <a class="card maxmd:mr-0" href="hire-us.php">
                         <h4>Lean-Experts</h4>
                         <p>Find out more about current job offers and convince yourself of our service.</p>
                     </a>
